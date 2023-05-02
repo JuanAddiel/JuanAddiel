@@ -1,3 +1,13 @@
+### Juan Leonardo | Software developer 👨‍💻💻 ⌨ 
+
+I have a phrase which I wanna share and it is this that has marked me to continue studying. "If you could, because I can't be better."
+
+---
+
+## About Me 👨‍💻
+I'm a software student. I like to learn some technologies myself. I study at the Technological Institute of the Americas (ITLA), I am going for the 6th semester. I work in the programming language C #. I love programming
+
+---
 
 
 ## Tech & Tools Preference 🛠️
@@ -23,6 +33,21 @@
 ![SQLSERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
 )
 
+---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanaddiel&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Juan Stacks](https://github-readme-stats.vercel.app/api?username=juanaddiel&theme=github_dark&show_icons=true)
-![LANGUAJE](https://github-readme-stats.vercel.app/api/top-langs/?username=juanaddiel&layout=compact&count_private=true&theme=github_dark)
+
+---
+
+### My social networks 🌎
+[<img align="left" alt="Addiel | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-162-498418.png" />][linkedin]
+[<img align="left" alt="Addiel | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/instagram-188-498425.png" />][instagram]
+[<img align="left" alt="Addiel | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/facebook-262-721949.png" />][facebook]
+
+<br/>
+
+---
+[facebook]: https://www.facebook.com/Addiel.Jaquez/
+[instagram]: https://www.instagram.com/juanaleonardoj/
+[linkedin]: https://www.linkedin.com/in/juan-addiel-leonardo-jaquez-2837731aa/
