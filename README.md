@@ -1,37 +1,66 @@
-### Juan Leonardo | Software developer 👨‍💻💻 ⌨ 
 
-I have a phrase which I wanna share and it is this that has marked me to continue studying. "If you could, because I can't be better."
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center"><b>Hi , I'm Juan Leonardo | Software developer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Juan+Addiel+Leonardo..&hearts;++;Back-end+Developer;+Student;Love+to+learn+<3"></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- I have a phrase which I wanna share and it's this that has marked me to continue studying. "If you can, because I can't be better." -->
+<br>
+<br>
+<br>
+
+
+
+
+
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
 ---
-
-## About Me 👨‍💻
-I'm a software student. I like to learn some technologies myself. I study at the Technological Institute of the Americas (ITLA), I am going for the 6th semester. I work in the programming language C #. I love programming
-
----
+I'm a software student. I like to be self-taught, in my studies of programming languages. I study at the Technological Institute of the Americas (ITLA) and, I beign for the 6th semester. I am fluent in the C# programming language.
 
 
-## Tech & Tools Preference 🛠️
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SEQUELIZE](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+<br>
+<br>
+<br>
 
-![NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
-)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-)
-![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-)
-![SQLSERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
-)
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary ><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<br>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,net,css,express,github,html,java,js,md,mongodb,mysql,nodejs,postman,react,tailwind,vscode,cs,devto,visualstudio,jquery,sequelize&perline=11" />
+  </a>
+</p>
+
+
+<br>
+<br>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/juan-addiel-leonardo-jaquez-2837731aa/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/juanaleonardoj/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  <a href="https://www.facebook.com/JAddielLeonardo/" target="blank"><img align="center" src="https://intersindicalaragon.org/wp-content/uploads/icono-facebook.png" alt="facebook" height="50" width="50" /></a>
+  
+</p>
+
+
+
 
 ---
 
@@ -40,14 +69,3 @@ I'm a software student. I like to learn some technologies myself. I study at the
 
 ---
 
-### My social networks 🌎
-[<img align="left" alt="Addiel | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-162-498418.png" />][linkedin]
-[<img align="left" alt="Addiel | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/instagram-188-498425.png" />][instagram]
-[<img align="left" alt="Addiel | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/facebook-262-721949.png" />][facebook]
-
-<br/>
-
----
-[facebook]: https://www.facebook.com/Addiel.Jaquez/
-[instagram]: https://www.instagram.com/juanaleonardoj/
-[linkedin]: https://www.linkedin.com/in/juan-addiel-leonardo-jaquez-2837731aa/
