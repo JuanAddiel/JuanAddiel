@@ -64,8 +64,7 @@ I'm a software student. I like to be self-taught, in my studies of programming l
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanaddiel&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-![Juan Stacks](https://github-readme-stats.vercel.app/api?username=juanaddiel&theme=github_dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanaddiel&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)![Juan Stacks](https://github-readme-stats.vercel.app/api?username=juanaddiel&theme=github_dark&show_icons=true)
 
 ---
 
